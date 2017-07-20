@@ -1,3 +1,4 @@
+package com.javacertification.firstchapter;
 
 import java.util.*; // imports java.util.Random among other things
 public class ImportExample1 {
